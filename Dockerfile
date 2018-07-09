@@ -1,4 +1,4 @@
-FROM node:6-alpine
+FROM node:10-alpine
 MAINTAINER Peter Dave Hello <hsu@peterdavehello.org>
 ENV NPM_CONFIG_LOGLEVEL warn
 RUN node --version
