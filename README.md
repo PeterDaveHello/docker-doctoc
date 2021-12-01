@@ -1,7 +1,7 @@
 npm-doctoc
 ==============
 
-![license](https://img.shields.io/badge/license-GPLv3.0-brightgreen.svg?style=flat) ![](https://img.shields.io/docker/pulls/peterdavehello/npm-doctoc.svg) ![](https://images.microbadger.com/badges/image/peterdavehello/npm-doctoc.svg) ![](https://images.microbadger.com/badges/version/peterdavehello/npm-doctoc.svg)
+![license](https://img.shields.io/badge/license-GPLv3.0-brightgreen.svg?style=flat) ![](https://img.shields.io/docker/pulls/peterdavehello/npm-doctoc.svg)
 
 Pack npm package [doctoc](https://github.com/thlorenz/doctoc) into a docker image.
 
