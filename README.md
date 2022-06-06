@@ -1,4 +1,4 @@
-npm-doctoc
+docker-doctoc
 ==============
 
 ![license](https://img.shields.io/badge/license-GPLv3.0-brightgreen.svg?style=flat) ![](https://img.shields.io/docker/pulls/peterdavehello/npm-doctoc.svg)
@@ -10,7 +10,7 @@ Pack npm package [doctoc](https://github.com/thlorenz/doctoc) into a docker imag
 For detail, see `doctoc` homepage: https://github.com/thlorenz/doctoc
 
 My GitHub repository:
- - https://github.com/PeterDaveHello/npm-doctoc
+ - https://github.com/PeterDaveHello/docker-doctoc
 
 My Docker hub repository:
  - https://hub.docker.com/r/peterdavehello/npm-doctoc/
