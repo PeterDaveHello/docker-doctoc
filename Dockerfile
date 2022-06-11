@@ -1,5 +1,5 @@
 FROM node:14-alpine
-MAINTAINER Peter Dave Hello <hsu@peterdavehello.org>
+LABEL maintainer="Peter Dave Hello <hsu@peterdavehello.org>"
 ENV NPM_CONFIG_LOGLEVEL warn
 RUN node --version
 RUN npm  --version
