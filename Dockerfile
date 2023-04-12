@@ -1,4 +1,4 @@
-FROM node:14-alpine
+FROM node:18-alpine
 LABEL maintainer="Peter Dave Hello <hsu@peterdavehello.org>"
 ENV NPM_CONFIG_LOGLEVEL warn
 RUN node --version
