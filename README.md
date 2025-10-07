@@ -1,9 +1,7 @@
 # docker-doctoc
 
-![License](https://img.shields.io/badge/license-GPLv3.0-brightgreen.svg?style=flat)
+[![License](https://img.shields.io/badge/license-GPLv3.0-brightgreen.svg?style=flat)](https://www.gnu.org/licenses/gpl-3.0)
 [![Docker Hub Pulls](https://img.shields.io/docker/pulls/peterdavehello/npm-doctoc.svg)](https://hub.docker.com/r/peterdavehello/npm-doctoc/)
-
-[![Docker Hub Badge](https://dockeri.co/image/peterdavehello/npm-doctoc)](https://hub.docker.com/r/peterdavehello/npm-doctoc/)
 
 This Docker image packages the npm package [doctoc](https://github.com/thlorenz/doctoc), which generates a table of contents for Markdown files inside a local git repository. The generated links are compatible with anchors produced by GitHub and other platforms, thanks to a command line flag.
 
